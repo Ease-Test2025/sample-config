@@ -83,3 +83,5 @@ app:
   #- crn: crn:v1:bluemix:public:dashdb-for-transactions:us-east:a/123:456::
   #- name: "my Db2 instance"
   #  type: db2
+  services:
+    - awsEndpointService: "com.amazonaws.vpce.us-east-1.vpce-svc-0b45e222d19c556ef"
